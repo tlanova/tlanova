@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tlanova
-- 👀 Seeking a role as a Business Analyst
-- 🌱 I’m currently learning:  ServiceNow Development, Javascript
+- 👀 Currently a Business Systems Analyst at Northeastern University
+- 🌱 I’m currently learning:  Python web dev
 - 📫 Reach me: tatiana.boulanova@gmail.com // tlanova.co
 
 <!---
